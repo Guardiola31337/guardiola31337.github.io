@@ -9,6 +9,8 @@ If you want to go more deeper I encourage you to review other principles and pat
 In this post, we are going to mention some layered architectures, explaining what they have in common and their advantages and disadvantages. Furthermore, we'll go deeper, describing Hexagonal Architecture and comment some of its potential downsides.
 So, less talk and more action!
 
+<!-- more -->
+
 ## Architectures: Different names, same philosophy
 
 As you may know, over the last several years many different architecture approaches have appeared. These include: [Onion Architecture](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/), [Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture) (also known as Ports and Adapters) and the popular [Clean Architecture](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html), among other layered architectures.

@@ -11,6 +11,8 @@ Although _Architecture_ is not new in _Mobile development_, (E.g. [Forgetting An
 
 So... What's the problem??
 
+<!-- more -->
+
 I'm still seeing _poker-faces_ and hearing comments like _"It's too messy!"_ when discussing the topic with coworkers and people from the community.
 
 Because of that, I think, it's a good moment to explain clearly the basics of every _architecture_, its parts in common and why it's so important in every piece of software.

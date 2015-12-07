@@ -10,6 +10,8 @@ I remember well the first days and weeks and I was a bit lost in what apps could
 I missed an article or a post from the point of view of a developer or a group of software engineers.
 I went on the Internet but all I found were hundreds of sites with similar banal content, with titles like _"Best Mac OS X Apps"_ or _"Top 10 Mac Apps"_ but separated in categories, so it was really difficult to extract something helpful from them. I asked my colleagues and tried lots of apps in order to have a preferable suite nowadays.
 
+<!-- more -->
+
 A couple of months ago, a friend of mine became a new Mac user and he asked me the same question I did myself years ago:
 
 > "What handy apps do you think I must have?"

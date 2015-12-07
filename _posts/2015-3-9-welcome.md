@@ -9,6 +9,8 @@ Hey there!
 It’s been a long time since I started wondering about writing a blog and I figure it’s the right moment to do so. You might be asking yourself: Why?
 What does motivate me to start this new experience?
 
+<!-- more -->
+
 The main reason is that I want to follow [Sandro Mancuso](https://twitter.com/sandromancuso)’s advice written in his awesome [book](http://www.amazon.com/The-Software-Craftsman-Professionalism-Pragmatism/dp/0134052501):
 (If you haven't read it yet, I don’t know what you are waiting for…)
 
