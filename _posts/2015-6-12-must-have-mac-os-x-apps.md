@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Must-have Mac OS X Apps
+summary: A great set of apps for Mac OS X.
 ---
 
 I'm a Mac user for around 3 years, so I consider myself a relatively new user.

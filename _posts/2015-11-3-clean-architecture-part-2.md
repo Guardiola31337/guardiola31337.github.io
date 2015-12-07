@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is all this Clean Architecture jibber-jabber about? - Part 2
+summary: In this post, we are going to mention some layered architectures, explaining what they have in common and their advantages and disadvantages. Furthermore, we'll go deeper, describing Hexagonal Architecture and comment some of its potential downsides.
 ---
 
 In the last [post](http://pguardiola.com/blog/clean-architecture-part-1), we walked through the _Clean_ part, giving a summary of some concepts that you should know if you wish to write _well-crafted code_.

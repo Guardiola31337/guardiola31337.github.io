@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome!
+summary: Welcome post.
 ---
 
 Hey there!

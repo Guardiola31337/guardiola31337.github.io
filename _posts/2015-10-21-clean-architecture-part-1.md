@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is all this Clean Architecture jibber-jabber about? - Part 1
+summary: We will review concepts like SOLID, coupling and cohesion, abstraction, vertical slicing and some design patterns and principles all widely seen in each different architecture approach.
 ---
 
 Lately, there are a lot of people in the Android community, talking about _Architecture_, especially about _Clean_. That's good news!
