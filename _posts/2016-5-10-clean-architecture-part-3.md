@@ -88,7 +88,7 @@ With those tests we have checked the _List folders_'s functionality and we are g
 
 #### Adapters module
 
-![Adapters](https://raw.githubusercontent.com/Guardiola31337/guardiola31337.github.io/master/art/cantanarchitecture/adapters.png)
+![Adapters](https://raw.githubusercontent.com/Guardiola31337/guardiola31337.github.io/master/art/catanarchitecture/adapters.png)
 
 If you remember from the previous [post](http://pguardiola.com/blog/clean-architecture-part-2/), an adapter is a bridge between the application and the service that is needed by the application. Basically, it's an implementation of a specific port.
 
