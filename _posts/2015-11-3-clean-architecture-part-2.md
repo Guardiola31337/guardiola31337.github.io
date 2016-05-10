@@ -147,7 +147,7 @@ As we've seen, pros beat cons! So, it's clear that having an architecture for ou
 
 ___
 
-In the next and final article we'll get our hands dirty. I'll present **Catan Architecture**, a hexagonal architecture for Android. We'll analyze the overall structure, how the data crosses the boundaries of the different layers and all the rest of the implementations details by reviewing a sample project.
+In the next and final [article](http://pguardiola.com/blog/clean-architecture-part-3) we'll get our hands dirty. I'll present **Catan Architecture**, a hexagonal architecture for Android. We'll analyze the overall structure, how the data crosses the boundaries of the different layers and all the rest of the implementations details by reviewing a sample project.
 Who wants to play [Catan](https://en.wikipedia.org/wiki/Catan)? Don't settle for less!
 
 P.S I hope you're enjoying the series but I would love to hear your thoughts! So feel free to leave a comment ;)
