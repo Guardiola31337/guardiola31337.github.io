@@ -6,7 +6,7 @@ summary: In this post, we are ready to get our hands dirty. I'm going to show yo
 
 First of all I would like to apologize for the delay in releasing the third and final article of the series. I've been a bit busy lately, sorry...
 In the meantime, Clean-Architecture related posts have been appearing (e.g. [Hexawhat Architecture?](https://www.novoda.com/blog/hexawhat-architecture/)), my friends from [Karumi](http://karumi.com/) have released two versions of [Rosie](https://github.com/Karumi/Rosie) (their awesome Android framework to create applications following the principles of Clean Architecture), [Otto](http://square.github.io/otto/), a library that I use in the [sample](https://github.com/Guardiola31337/CatanArchitecture), was [deprecated](https://github.com/square/otto/pull/181/files/) (no worries, it won't be a problem) and even _Google_ has even created [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture), a collection of samples to discuss and showcase different architectural tools and patterns for Android apps.
-Nonetheless, I'm pretty sure you'll learn something, so keep reading :wink:
+Nonetheless, I'm pretty sure you'll learn something, so keep reading ;)
 
 <!-- more -->
 
@@ -88,7 +88,7 @@ With those tests we have checked the _List folders_'s functionality and we are g
 
 #### Adapters module
 
-![Adapters](https://raw.githubusercontent.com/Guardiola31337/guardiola31337.github.io/master/art/cantanarchitecute/adapters.png)
+![Adapters](https://raw.githubusercontent.com/Guardiola31337/guardiola31337.github.io/master/art/cantanarchitecture/adapters.png)
 
 If you remember from the previous [post](http://pguardiola.com/blog/clean-architecture-part-2/), an adapter is a bridge between the application and the service that is needed by the application. Basically, it's an implementation of a specific port.
 
