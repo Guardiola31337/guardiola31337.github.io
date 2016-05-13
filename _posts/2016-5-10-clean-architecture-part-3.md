@@ -69,9 +69,13 @@ The idea is to create a class (`FoldersModule`) in which, using a bus, we regist
 ##### How does it work?
 
 List folders:
+
 1. Register `LoadFoldersCommand` event. (In order to wake up the hexagon a LoadFoldersCommand event has to be sent).
+
 2. When `on` LoadFoldersCommand is called, execute `loadFolders()` through the `StoragePort`. (When `loadFolders()` finishes, it sends a LoadFoldersResponse event).
+
 3. Register `LoadFoldersResponse` event.
+
 4. When `on` LoadFoldersResponse is called, `broadcast` `LoadFoldersFinished` event with the folders obtained.
 
 ##### Testing approach
