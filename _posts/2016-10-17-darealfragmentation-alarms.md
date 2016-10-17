@@ -5,7 +5,6 @@ summary: In this first article, we are going to analyze alarms in Android.
 ---
 
 In order to prepare the [talk](http://2016.codemotion.es/agenda.html#5732408326356992/84644002), that my friend [Raúl](https://twitter.com/rromanl) and I will give at [Codemotion Spain 2016](http://2016.codemotion.es/), I decided to write a series of posts explaining how **alarms** and **sensors** work and how **Doze** mode affects their normal behavior. In the talk, we'll discuss those topics, the problems that we found along the way creating [Drivies](http://www.driviesapp.com/) and how we have solved such fragmentation issues. Don't miss it!
-
 In this first article, we are going to analyze alarms in Android. Let's go!
 
 <!-- more -->
