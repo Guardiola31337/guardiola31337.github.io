@@ -95,4 +95,6 @@ ___
 In the next post, we'll talk about how _Doze_ and _App Standby_ work and how these power-savings optimizations influence alarms.
 In the meantime, you can check our [playground](https://github.com/Guardiola31337/darealfragmentation) sample repository on Github.
 
+If you want to know how to debug alarms, go check the amazing [post](https://medium.com/@vitovalov/adb-date-changer-app-64f91e2bb5bd#.3ac672wsi) of my friend [Vito](https://twitter.com/vitovalov).
+
 P.S. Quick reminder! Feel free to leave a comment below. I'm looking forward to hearing from you.
