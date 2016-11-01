@@ -58,9 +58,10 @@ But, what about real-time apps or time-sensitive apps that do their job behind t
 
 ### Alarms
 
-As you may already know, _Doze_ is particularly likely to affect activities that `AlarmManager` alarms and timers manage, because alarms in Android 5.1 (API level 22) or lower do not fire when the system is in _Doze_.
+As you may already know, _Doze_ is particularly likely to affect activities that `AlarmManager` alarms and timers manage. Be careful, because if you use the alarms methods from Android 5.1 (API level 22) or lower when the system is in _Doze_ (Android 6.0+ devices) alarms won't fire.
 
-As explained in the previous [post](http://pguardiola.com/blog/darealfragmentation-alarms/), Android 6.0 (API level 23) introduced two new `AlarmManager` methods: `setAndAllowWhileIdle()` and `setExactAndAllowWhileIdle()`. With these methods, you can set alarms that will fire even if the device is in Doze and not yet in a maintenance window. Remember that you only have 10 seconds to capture further wake locks in which to complete your work.
+As explained in the previous [post](http://pguardiola.com/blog/darealfragmentation-alarms/), Android 6.0 (API level 23) introduced two new `AlarmManager` methods: `setAndAllowWhileIdle()` and `setExactAndAllowWhileIdle()`.
+With these methods, you can set alarms that will fire even if the device is in Doze and not yet in a maintenance window. Remember that you only have 10 seconds to capture further wake locks in which to complete your work.
 
 **Warning**: Neither `setAndAllowWhileIdle()` nor `setExactAndAllowWhileIdle()` can fire alarms more than once per 9 minutes, per app.
 
