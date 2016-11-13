@@ -102,6 +102,6 @@ Anyway, say Boo! today and...
 
 ___
 
-In the next and final article, we'll talk about _sensors_. We'll explain how they work. Besides, we'll introduce some peculiarities when you are using them and battery optimization modes show up and show how to deal with such problems.
+In the [next](http://pguardiola.com/blog/darealfragmentation-sensors/) and final article, we'll talk about _sensors_. We'll explain how they work. Besides, we'll introduce some peculiarities when you are using them and battery optimization modes show up and show how to deal with such problems.
 
 P.S. I hope you’re enjoying the series but I would love to hear your thoughts! As always, feel free to leave a comment below and/or send a Pull Request on [DaRealFragmentation](https://github.com/Guardiola31337/darealfragmentation) repository!
