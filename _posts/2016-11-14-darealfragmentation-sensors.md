@@ -100,7 +100,7 @@ When working with sensors, you should take into account the guidelines described
 Nowadays, fragmentation in Android is a fact. As developers, we have to deal constantly with random behaviors between different versions of the operating system, incomplete ROMs, different hardware qualities, manufacturers that modify the specs of some APIs or even ignore them...
 That’s what we named **Da Real Fragmentation** and it makes development much more difficult. In addition (as shown in the series), if you have background processes running, your life becomes a nightmare!
 
-As you may have noticed, finally I didn't mention any of the problems that we found creating [Drivies](https://play.google.com/store/apps/details?id=es.tid.drivies) nor how we have solved such fragmentation issues. We'll do that in the [talk](http://2016.codemotion.es/agenda.html#5732408326356992/84644004)! So come, join us and do not let them tell you!
+As you may have noticed, finally I didn't mention any of the problems that we found creating [Drivies](https://drivies.onelink.me/692963081?pid=ownmedia&c=pguardiola) nor how we have solved such fragmentation issues. We'll do that in the [talk](http://2016.codemotion.es/agenda.html#5732408326356992/84644004)! So come, join us and do not let them tell you!
 
 ![Hype](https://raw.githubusercontent.com/Guardiola31337/guardiola31337.github.io/master/art/darealfragmentation/sensors/hype.gif)
 
