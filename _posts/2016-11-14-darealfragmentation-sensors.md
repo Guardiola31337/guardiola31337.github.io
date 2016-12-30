@@ -104,7 +104,7 @@ As you may have noticed, finally I didn't mention any of the problems that we fo
 
 ![Hype](https://raw.githubusercontent.com/Guardiola31337/guardiola31337.github.io/master/art/darealfragmentation/sensors/hype.gif)
 
-Don't worry if you can't attend! I'll post the slides and the video later ;)
+Don't worry if you can't attend! I'll post the [slides](https://speakerdeck.com/guardiola31337/da-real-fragmentation-explained-codemotion-2016) and the video later ;)
 
 ___
 
